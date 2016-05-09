@@ -1,0 +1,13 @@
+{
+  "name": "ui-darkish",
+  "title": "Darkish",
+  "displayName": "Darkish",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Black mixed theme",
+  "license": "GPL-3.0",
+  "engines": {
+    "nylas": "*"
+  },
+  "private": true
+}
